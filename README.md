@@ -7,9 +7,9 @@ This application transposes a (small) table - i.e. it switches columns and rows.
 Configuration
 -------------------
 
-Both input and output file is named *transpose.csv*. The application takes no parameters - see the screenshot for sample configuration
+Both input and output file is named **transpose.csv**. The application takes no parameters - see the screenshot for sample configuration
 
-![Configuration screenshot](https://github.com/keboola/r-custom-application-transpose/doc/screenshot.png)
+![Configuration screenshot](https://github.com/keboola/r-custom-application-transpose/blob/master/doc/screenshot.png)
 
 Sample input 
 -------------------
